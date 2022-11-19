@@ -1,24 +1,51 @@
-### Olá! Eu sou o Yago Ferreira! 💻 🖐️
+<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> eu sou o Yago Ferreira</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-ferreira-530a46237)
-[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yagofer12@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5561985643645)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yago_ferreira/)
-
-![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoFerre&show_icons=true&theme=radical)
-
-## Tecnologias que uso diariamente
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/103700322/202863310-a26baa0c-10a4-4534-9d34-73fe14005c7a.gif"/>
 </div>
 
-## Minhas Stacks
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+   <a href="https://www.linkedin.com/in/yago-ferreira-530a46237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://wa.me/5561985643645" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
+***
+
+<div align="center">
+   <h3> DESENVOLVEDOR FRONT END </h3>
+</div>
+
+- 🌐 Interessado em mudar o mundo com a tecnologia, fascinado por desafios reais e complexos.
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas**, atualmente no 2º semestre.
+- 👨‍💻 Me considero ágil em aprender qualquer linguagem e principalmente me adaptar em qualquer lugar, por isso tenho facilidade em aprender e me dedicar na programação, consigo me desenvolver e ter alta performance quando ocorre um problema, pois isso se torna desafiador para mim e prende minha atenção.
+
+***
+
+<div align="center">
+   <h2> 🛠 Tecnologias</h2>
+</div>
+
+<div style="display: inline_block" align="center"><br/>
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp &nbsp
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp &nbsp
+    <img align="center" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp &nbsp
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />&nbsp &nbsp
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp &nbsp
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp &nbsp
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp &nbsp
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp &nbsp
+    <img align="center" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp &nbsp
+</div>
+
+***
+
+<div align="center">
+   <h2> 📊 Stats </h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/YagoFerre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoFerre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoFerre&layout=compact&langs_count=7&theme=dark"/>
+</div>
