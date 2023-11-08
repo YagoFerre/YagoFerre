@@ -13,7 +13,7 @@
 ***
 
 <div align="center">
-   <h3> DESENVOLVEDOR FRONT END </h3>
+   <h3> DESENVOLVEDOR FULL STACK </h3>
 </div>
 
 - 🌐 Interessado em mudar o mundo com a tecnologia, fascinado por desafios reais e complexos.
