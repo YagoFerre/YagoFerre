@@ -17,7 +17,7 @@
 </div>
 
 - 🌐 Interessado em mudar o mundo com a tecnologia, fascinado por desafios reais e complexos.
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas**, atualmente no 2º semestre.
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas**, atualmente no 5º semestre.
 - 👨‍💻 Me considero ágil em aprender qualquer linguagem e principalmente me adaptar em qualquer lugar, por isso tenho facilidade em aprender e me dedicar na programação, consigo me desenvolver e ter alta performance quando ocorre um problema, pois isso se torna desafiador para mim e prende minha atenção.
 
 ***
@@ -39,13 +39,3 @@
 </div>
 
 ***
-
-<div align="center">
-   <h2> 📊 Stats </h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/YagoFerre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoFerre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoFerre&layout=compact&langs_count=7&theme=dark"/>
-</div>
