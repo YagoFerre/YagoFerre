@@ -16,8 +16,7 @@
    <h3> DESENVOLVEDOR FULL STACK </h3>
 </div>
 
-- 🌐 Interessado em mudar o mundo com a tecnologia, fascinado por desafios reais e complexos.
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas**, atualmente no 5º semestre.
+- 📚 Graduado em **Análise e Desenvolvimento de Sistemas**.
 - 👨‍💻 Me considero ágil em aprender qualquer linguagem e principalmente me adaptar em qualquer lugar, por isso tenho facilidade em aprender e me dedicar na programação, consigo me desenvolver e ter alta performance quando ocorre um problema, pois isso se torna desafiador para mim e prende minha atenção.
 
 ***
