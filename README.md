@@ -13,7 +13,7 @@
 ***
 
 <div align="center">
-   <h3> DESENVOLVEDOR FULL STACK </h3>
+   <h3> DESENVOLVEDOR </h3>
 </div>
 
 - 📚 Graduado em **Análise e Desenvolvimento de Sistemas**.
