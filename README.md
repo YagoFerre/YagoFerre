@@ -4,6 +4,14 @@
 <br/>
 <span>💻 Desenvolvedor Full-stack</span>
 
+<h3>Contato</h3>
+
+<div>
+   <a href="https://www.linkedin.com/in/yago-ferreira-530a46237/" alt="LinkedIn" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+   </a>
+</div>
+
 <h3>Tecnologias</h3>
 
 <div>
@@ -32,5 +40,3 @@
    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
-
-
